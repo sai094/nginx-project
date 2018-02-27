@@ -185,3 +185,4 @@ You have 2 different options to manage virtual hosts
         }
 
 [![Build Status](https://travis-ci.org/netmanagers/puppet-nginx.png?branch=master)](https://travis-ci.org/netmanagers/puppet-nginx)
+# nginx-project
